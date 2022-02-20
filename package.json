@@ -1,0 +1,13 @@
+{
+  "name": "randomnumbergenerator-js",
+  "version": "1.0.0",
+  "description": "Random number generator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SUresh Vegapatta <sureshv.gknair@gmail.com>",
+  "license": "ISC"
+}
