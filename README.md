@@ -1,5 +1,5 @@
 ## What is this?
-A random number generator
+A random number generator with-in two values with a min and max values
 
 ## Instalation
 Run `npm i randomnumbergenerator-js`
